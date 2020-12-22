@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DrawShapes</string>
+    <string name="rect">Rect</string>
+    <string name="draw">Draw</string>
+    <string name="move">Move</string>
+    <string name="circle">Circle</string>
+    <string name="triangle">Triangle</string>
+    <string name="undo">Undo</string>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
